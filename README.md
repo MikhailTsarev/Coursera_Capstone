@@ -1,2 +1,3 @@
 # Coursera_Capstone
-Applied Data Science Capstone by IBM
+
+This will be mainly used along the course "Applied Data Science Capstone by IBM".
